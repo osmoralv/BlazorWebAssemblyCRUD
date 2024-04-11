@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\omora\\CodeProjects\\DotNet\\BlazorWebAssemblyCRUD\\BlazorWebAssemblyCRUD\\BlazorWebAssemblyCRUD\\BlazorWebAssemblyCRUD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorWebAssemblyCRUD.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorWebAssemblyCRUD.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\omora\\CodeProjects\\DotNet\\BlazorWebAssemblyCRUD\\BlazorWebAssemblyCRUD\\BlazorWebAssemblyCRUD\\BlazorWebAssemblyCRUD\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\omora\\CodeProjects\\DotNet\\BlazorWebAssemblyCRUD\\BlazorWebAssemblyCRUD\\BlazorWebAssemblyCRUD\\BlazorWebAssemblyCRUD\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\omora\\CodeProjects\\DotNet\\BlazorWebAssemblyCRUD\\BlazorWebAssemblyCRUD\\BlazorWebAssemblyCRUD\\BlazorWebAssemblyCRUD\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\omora\\CodeProjects\\DotNet\\BlazorWebAssemblyCRUD\\BlazorWebAssemblyCRUD\\BlazorWebAssemblyCRUD\\BlazorWebAssemblyCRUD\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorWebAssemblyCRUD.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorWebAssemblyCRUD.props",
+      "PackagePath": "build\\BlazorWebAssemblyCRUD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorWebAssemblyCRUD.props",
+      "PackagePath": "buildMultiTargeting\\BlazorWebAssemblyCRUD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorWebAssemblyCRUD.props",
+      "PackagePath": "buildTransitive\\BlazorWebAssemblyCRUD.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
